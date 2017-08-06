@@ -1,7 +1,7 @@
 # from bitrix_env
 # memory: 256 <= system_memory < 512
 [mysqld]
-
+default_time_zone=Asia/Yakutsk
 sql-mode=""
 # Cache parameters
 query_cache_size = 32M
